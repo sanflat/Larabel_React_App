@@ -1,2 +1,2 @@
-# Larabel_React_App
-LarabelとReactを使ったアプリ
+# Laravel_React_App
+LaravelとReactを使ったアプリ
